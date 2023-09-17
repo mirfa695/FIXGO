@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381258671909",
+    "project_id": "fixgo-161fe",
+    "storage_bucket": "fixgo-161fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381258671909:android:04bfafa295fbaf86bd1ccc",
+        "android_client_info": {
+          "package_name": "com.example.fixgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381258671909-b3hftfhn1kv7tvjce27r5ojovcnrnalk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe5l2lhbFSBHdbKuChH3wwCasDAw1_5iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381258671909-b3hftfhn1kv7tvjce27r5ojovcnrnalk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
